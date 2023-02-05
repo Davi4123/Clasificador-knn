@@ -13,8 +13,10 @@ ubicar el archivo de Excel llamado IA-Feijoas.xlsx
 4.Se creo el Scaler para asi utilizar el comando StandardScaler para asi estándarizar los datos 
 eliminando la media y escalando los datos de forma que su varianza sea igual a 1.
 
+
 5. Al crear nuestro ciclo for utilizamos nuestro entreno y nuestra validación para asi al momento 
 de que este tome el valor del Excel pueda hacer el entrenamiento y la validación.
+
 
 6. Se utilizo el comando de confusión_matrix para asi este nos pueda mostrar la matriz de 
 confusión
